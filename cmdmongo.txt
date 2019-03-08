@@ -1,0 +1,4 @@
+﻿pour importer la table users
+mongoimport --db geo_france --collection users --file ~/home/stag/Téléchargements/users.json
+
+mot de passe user: stag12345A

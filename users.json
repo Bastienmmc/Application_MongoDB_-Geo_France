@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c52d5df9303fc1ec0374212"},"name":"Sandra","username":"Sandra","email":"sandra.vedie@gmail.com","usertype":"edit","password":"$2y$10$QKkK/UUMlPAIuCvHxievN.HF17PFON1O.8I6SngJcOs8CKiTKZnGi"}
+{"_id":{"$oid":"5c52f90d9303fc2f4c1b6f92"},"name":"Fabio","username":"Fabio","email":"fabio.pomarelli@gmail.com","usertype":"admin","password":"$2y$10$YiliS1h5CYnYu8uM29hh4eNCn3WRvIq5c4YsiC7O9va2uKS2MvEwC"}
+{"_id":{"$oid":"5c52fc1a9303fc2f4c1b6f93"},"name":"Bastien","username":"Bastien","password":"$2y$10$Ik36TIuq0GHVRXgnvFKL7uUvgHlQpGcEHbG9o75/MKBh6v8Ad43Je","email":"bastien.chartier@gmail.com","usertype":"admin"}
+{"_id":{"$oid":"5c52ffe69303fc15736e0742"},"name":"Marouan","username":"marouan31","password":"$2y$10$ss2SzkFMu8zyTpTaVy/n/esEfP/CDRo1w2J44vlyp88YWls.u1ojO","email":"marouan31@gmail.com","usertype":"edit"}
